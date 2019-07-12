@@ -6,7 +6,7 @@
 </HEAD>
 <BODY>
 <lu> <p>Задания PHP MEDIASOFT</P>
-    <li> <a href="lesson_test/phptest/index.php">Задание 1. Анализ текста.</a> </li>
+    <li> <a href="phptest/index.php">Задание 1. Анализ текста.</a> </li>
 
 </lu>
 
